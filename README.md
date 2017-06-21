@@ -1,5 +1,5 @@
 # pyBOX
-# [![pyBox](https://www.python.org/static/community_logos/python-powered-h-50x65.png)]
+![pyBox](https://www.python.org/static/community_logos/python-powered-h-50x65.png) 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
 
