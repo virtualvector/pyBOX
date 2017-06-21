@@ -1,28 +1,13 @@
-# pyBOX [![pyBox](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+# pyBOX
+# [![pyBox](https://www.python.org/static/community_logos/python-powered-h-50x65.png)]
 A curated list of awesome Python frameworks, libraries, software and resources.
 
 
 
-- [pyBOX](#awesome-python)
-    - [Admin Panels](#admin-panels)
-    - [hello](#hello)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    - [Video](#video)
-    - [Web Content Extracting](#web-content-extracting)
-    - [Web Crawling](#web-crawling)
-    - [Web Frameworks](#web-frameworks)
-    - [WebSocket](#websocket)
-    - [WSGI Servers](#wsgi-servers)
-- [General](#services)
-    - [Mailer](#code-quality)
-    - [Result_checker](#continuous-integration)
-- [Resources](#resources)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
-    - [Weekly](#weekly)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
+- [pyBOX](https://github.com/virtualvector/pyBOX)
+- [General](https://github.com/virtualvector/pyBOX/tree/master/general)
+    - [send_mail](https://github.com/virtualvector/pyBOX/blob/master/general/send_mail.py)
+    - [result_checker](https://github.com/virtualvector/pyBOX/blob/master/general/resutl_checker.py)
 
 - - -
 
