@@ -1,2 +1,0 @@
-g++ windmill.c -lglut -lGL -lGLU
-
